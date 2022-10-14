@@ -1,0 +1,12 @@
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\bin\Debug\net5.0\ScanUtils.deps.json
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\bin\Debug\net5.0\ScanUtils.dll
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\bin\Debug\net5.0\ref\ScanUtils.dll
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\bin\Debug\net5.0\ScanUtils.pdb
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.csproj.AssemblyReference.cache
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.AssemblyInfoInputs.cache
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.AssemblyInfo.cs
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.csproj.CoreCompileInputs.cache
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.dll
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ref\ScanUtils.dll
+C:\Users\siraj\RiderProjects\AntivirusService\ScanUtils\obj\Debug\net5.0\ScanUtils.pdb
